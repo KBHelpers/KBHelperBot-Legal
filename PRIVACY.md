@@ -1,8 +1,8 @@
-# Privacy Policy – KB Helper
+# Privacy Policy – KBHelperBot
 
 **Effective date:** September 30, 2026
 
-KB Helper ("the bot") is a companion utility bot for the Discord game bot EPIC RPG. This policy explains what data the bot processes, why, and how you can have it removed.
+KBHelperBot ("the bot") is a companion utility bot for the Discord game bot EPIC RPG. This policy explains what data the bot processes, why, and how you can have it removed.
 
 ## 1. What the bot reads
 
