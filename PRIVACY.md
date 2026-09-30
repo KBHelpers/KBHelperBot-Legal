@@ -55,7 +55,7 @@ If this policy changes, the updated version will be published at this address wi
 
 ## 8. Contact
 
-KB Helper is a private bot and cannot be invited publicly. All requests (joining or leaving the advanced features, data access or deletion, questions about this policy) can be sent to the developer via Discord direct message:
+KB Helper is a private bot and cannot be invited publicly. All requests (joining or leaving the advanced features, adding the bot to a server, data access or deletion, questions about this policy) can be sent to the developer via Discord direct message:
 
 - **Discord username:** Konrad
 - **Discord user ID:** 317320517579177984
